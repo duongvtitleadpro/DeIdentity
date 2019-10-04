@@ -1,0 +1,19 @@
+
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ŞÌ×-
+Fsquid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŞÌ×-
+nsquid:S1192="KDefine a constant instead of duplicating this literal "retain-uid" 3 times.( â÷öøÿÿÿÿ8ŞÌ×-
+nsquid:S11929"KDefine a constant instead of duplicating this literal "retain-dev" 3 times.(á¦Ÿ×úÿÿÿÿ8ŞÌ×-
+osquid:S11921"LDefine a constant instead of duplicating this literal "retain-date" 3 times.(·˜º‰üÿÿÿÿ8ŞÌ×-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Ôš¼Şøÿÿÿÿ8ŞÌ×-
+isquid:S11925"KDefine a constant instead of duplicating this literal "retain-org" 3 times.(ª‚ª8ŞÌ×-
+[
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Ôš¼Şøÿÿÿÿ8ŞÌ×-
+xsquid:S1488D"ZImmediately return this expression instead of assigning it to the temporary variable "cl".(¾ˆÊˆ8ŞÌ×-
+\
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ8ŞÌ×-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(›õÊòûÿÿÿÿ8ŞÌ×-
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ŞÌ×-
