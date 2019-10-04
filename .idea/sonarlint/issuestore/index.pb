@@ -13,3 +13,5 @@ p
 @src/main/java/org/dcm4che3/tool/deidentify/DeIdentifyExtend.java,b\5\b5b4db269b1c1bcf097b20efad08e8570df083d1
 r
 Bsrc/main/java/org/dcm4che3/tool/deidentify/DeIdentifierExtend.java,3\5\35b2cbe66161f366e85c94450973f9033d98d694
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c

@@ -1,8 +1,8 @@
 
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹öÃ‰Ö-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å¯¸óúÿÿÿÿ8Ö¯É‰Ù-
-jsquid:S00101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äåè8ë©¹ªÙ-
 _squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ä²Œ8ôúÿ‡Ø-
 _squid:S1075"ARefactor your code to get this URI from a customizable parameter.(îØö¸8ðÅˆØ-
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ°ûøÿÿÿÿ8•öâ¹Ø-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹öÃ‰Ö-

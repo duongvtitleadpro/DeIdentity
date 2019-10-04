@@ -1,20 +1,17 @@
 
-tsquid:S2177,"WRename this method; there is a "private" method in the parent class with the same name.(®”ÜA8Œ±å‡Ù-
-~squid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ¯¡ÿÿÿÿÿ8™ÿ¦†Ù-
-Jsquid:S2175}"-A "EnumSet<Option>" cannot contain a "Option"(÷?8Ïø©†Ù-
-nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(âã¢øÿÿÿÿ8™ÿ¦†Ù-
-~squid:S00115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û›ñ¤üÿÿÿÿ8™ÿ¦†Ù-
-usquid:S2177%"WRename this method; there is a "private" method in the parent class with the same name.(öúŸÕ8™¥é‡Ù-
-ysquid:S00115L"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á‘¢¶8™ÿ¦†Ù-
-zsquid:S2177c"WRename this method; there is a "private" method in the parent class with the same name.(º»‹•øÿÿÿÿ8ú’î…Ù-
-Hsquid:S1068"%Remove this unused "x" private field.(ú¶æ¬ÿÿÿÿÿ8ÔªõˆÙ-
-ysquid:S00115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°¶àÿ8™ÿ¦†Ù-
-zsquid:S2177|"WRename this method; there is a "private" method in the parent class with the same name.(÷ÓØ§ÿÿÿÿÿ8Ïø©†Ù-
-`squid:UnusedPrivateMethod%"4Remove this unused private "initDummyValues" method.(öúŸÕ8¹ß‹‰Ù-
-"squid:SwitchLastCaseIsDefaultCheck0"YComplete cases by adding the missing enum constants or add a default case to this switch.(™åäæ8«æ‡Ù-
-Csquid:S1068"%Remove this unused "y" private field.(Í…Â8ßˆÁ…Ù-
-isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(İª„ş8Ì¬Ï†Ù-
-jsquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ú’î…Ù-
-ysquid:S00115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊµË–8™ÿ¦†Ù-
-nsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(Îœ‹Øûÿÿÿÿ8ÔªõˆÙ-
-ksquid:S1192;"MUse already-defined constant 'REMOVED' instead of duplicating its value here.(Ê‚ù¦8«æ‡Ù-
+ysquid:S00115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊµË–8™ÿ¦†Ù-
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(âã¢øÿÿÿÿ8™ÿ¦†Ù-
+Csquid:S1068!"%Remove this unused "y" private field.(Í…Â8ßˆÁ…Ù-
+{squid:S2177ƒ"WRename this method; there is a "private" method in the parent class with the same name.(÷ÓØ§ÿÿÿÿÿ8Ïø©†Ù-
+"squid:SwitchLastCaseIsDefaultCheck6"YComplete cases by adding the missing enum constants or add a default case to this switch.(™åäæ8«æ‡Ù-
+Ksquid:S2175„"-A "EnumSet<Option>" cannot contain a "Option"(÷?8Ïø©†Ù-
+ksquid:S1192C"MUse already-defined constant 'REMOVED' instead of duplicating its value here.(Ê‚ù¦8«æ‡Ù-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ú’î…Ù-
+ysquid:S00115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°¶àÿ8™ÿ¦†Ù-
+~squid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û›ñ¤üÿÿÿÿ8™ÿ¦†Ù-
+usquid:S2177+"WRename this method; there is a "private" method in the parent class with the same name.(öúŸÕ8™¥é‡Ù-
+zsquid:S2177k"WRename this method; there is a "private" method in the parent class with the same name.(º»‹•øÿÿÿÿ8ú’î…Ù-
+~squid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ¯¡ÿÿÿÿÿ8™ÿ¦†Ù-
+ysquid:S00115T"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á‘¢¶8™ÿ¦†Ù-
+tsquid:S21772"WRename this method; there is a "private" method in the parent class with the same name.(®”ÜA8Œ±å‡Ù-
+isquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(İª„ş8Ì¬Ï†Ù-
